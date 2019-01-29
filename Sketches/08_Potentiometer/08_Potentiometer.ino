@@ -10,5 +10,6 @@ void loop() {
   // value ranges from 0 - 1024
   // these values are changed by changing the knob of potentiometer
   Serial.println(analogRead(A0));
+  delay(1000);
 
 }

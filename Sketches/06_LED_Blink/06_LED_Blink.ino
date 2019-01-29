@@ -16,7 +16,7 @@ void loop() {
   //control state of pin 8
   // Make pin 8 output 5V
   digitalWrite(8, HIGH);
-  delay(1000);
+  delay(100);
   // Make pin 8 output 0V
   digitalWrite(8, LOW);
   delay(1000);

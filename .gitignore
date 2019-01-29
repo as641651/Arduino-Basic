@@ -33,3 +33,6 @@
 
 # jupyter notebook
 *.ipynb_checkpoints
+
+#libraries
+Sketches/libraries
